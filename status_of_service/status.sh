@@ -3,7 +3,6 @@
 #PURPOSE: Check the status of all jenkins/services present on the server
 #AUTHOR: Chaitanya Gaikwad
 
-
 i=1
 input="services.txt"
 rm status.txt
@@ -18,4 +17,3 @@ do
   #increment serial number 
   i=$(($i+1))
 done < "$input"
-
