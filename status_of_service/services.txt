@@ -6,6 +6,7 @@ jenkins@2.service
 jenkins@3.service
 jenkins@4.service
 jenkins@5.service
+jenkins@6.service
 jenkins@7.service
 jenkins@8.service
 jenkins@9.service
