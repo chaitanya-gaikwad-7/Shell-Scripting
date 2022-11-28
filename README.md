@@ -6,3 +6,4 @@ Shell scripts
 4. rename : Rename the file extensions
 5. bulk_folder : Create bulk folder and files
 6. even_odd : Create even odd folder and files and give privileges.
+7. status_of_service: Service status is fetched and active status is stored in txt file
