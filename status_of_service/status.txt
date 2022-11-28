@@ -1,0 +1,30 @@
+1 jenkins-lord.service
+   Active: active (running) since Fri 2022-11-11 09:59:10 CET; 2 weeks 3 days ago
+2 jenkins.service
+   Active: inactive (dead)
+3 jenkins@0.service
+   Active: active (running) since Mon 2022-11-28 11:02:36 CET; 2h 27min ago
+4 jenkins@1.service
+   Active: active (running) since Mon 2022-11-28 11:23:24 CET; 2h 6min ago
+5 jenkins@2.service
+   Active: active (running) since Sun 2022-11-27 00:02:58 CET; 1 day 13h ago
+6 jenkins@3.service
+   Active: active (running) since Sun 2022-11-27 00:03:10 CET; 1 day 13h ago
+7 jenkins@4.service
+   Active: active (running) since Sun 2022-11-27 00:03:23 CET; 1 day 13h ago
+8 jenkins@5.service
+   Active: active (running) since Sun 2022-11-27 00:03:35 CET; 1 day 13h ago
+9 jenkins@6.service
+   Active: active (running) since Sun 2022-11-20 16:56:10 CET; 1 weeks 0 days ago
+10 jenkins@7.service
+   Active: active (running) since Sun 2022-11-27 00:03:47 CET; 1 day 13h ago
+11 jenkins@8.service
+   Active: active (running) since Sun 2022-11-27 00:04:06 CET; 1 day 13h ago
+12 jenkins@9.service
+   Active: active (running) since Mon 2022-11-28 11:09:30 CET; 2h 20min ago
+13 nexus.service
+   Active: active (running) since Fri 2021-06-25 22:59:21 CEST; 1 years 5 months ago
+14 postgresql.service
+   Active: active (running) since Sun 2021-06-27 05:15:27 CEST; 1 years 5 months ago
+15 sonarqube.service
+   Active: active (running) since Sun 2021-06-27 05:15:28 CEST; 1 years 5 months ago
